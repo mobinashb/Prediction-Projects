@@ -10,3 +10,6 @@
 [submodule "Phone-Price-Prediction"]
 	path = Phone-Price-Prediction
 	url = https://github.com/mobinashb/Phone-Price-Prediction.git
+[submodule "customer-return-prediction"]
+	path = customer-return-prediction
+	url = https://github.com/mobinashb/customer-return-prediction.git
