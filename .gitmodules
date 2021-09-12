@@ -13,3 +13,6 @@
 [submodule "customer-return-prediction"]
 	path = customer-return-prediction
 	url = https://github.com/mobinashb/customer-return-prediction.git
+[submodule "Mobile-Phone-Price-Range-Classification"]
+	path = Mobile-Phone-Price-Range-Classification
+	url = https://github.com/mobinashb/Mobile-Phone-Price-Range-Classification.git
