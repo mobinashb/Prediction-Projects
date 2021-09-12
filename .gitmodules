@@ -1,3 +1,12 @@
 [submodule "Clicking-on-Ad-Prediction"]
 	path = Clicking-on-Ad-Prediction
 	url = https://github.com/mobinashb/Clicking-on-Ad-Prediction.git
+[submodule "Car-Price-Prediction"]
+	path = Car-Price-Prediction
+	url = https://github.com/mobinashb/Car-Price-Prediction
+[submodule "House-Price-Range-Prediction"]
+	path = House-Price-Range-Prediction
+	url = https://github.com/mobinashb/House-Price-Range-Prediction.git
+[submodule "Phone-Price-Prediction"]
+	path = Phone-Price-Prediction
+	url = https://github.com/mobinashb/Phone-Price-Prediction.git
